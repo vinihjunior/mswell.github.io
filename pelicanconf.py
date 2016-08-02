@@ -20,7 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Theme
-THEME = './pelican-bold'
+# THEME = './pelican-bold'
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
