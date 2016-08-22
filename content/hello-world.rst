@@ -1,7 +1,7 @@
 Hello World!
 ############
 :date: 2016-08-21 20:15
-:category: Python
+:category: Dev
 :tags: python, blog
 
 Enfim criei meu blog !
