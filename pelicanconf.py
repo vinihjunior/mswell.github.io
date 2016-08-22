@@ -7,6 +7,7 @@ SITENAME = u'Meu C\xf3digo'
 SITEURL = ''
 
 PATH = 'content'
+MAIN_MENU = True
 
 TIMEZONE = 'America/Sao_Paulo'
 
