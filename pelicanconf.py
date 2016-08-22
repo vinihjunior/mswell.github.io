@@ -20,17 +20,16 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Theme
-# THEME = './pelican-bold'
+THEME = './themes/Flex'
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+         ('Jinja2', 'http://jinja.pocoo.org/'),)
 
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/wellpunk'),
-          ('Another social link', '#'),)
+          ('github', 'http://github.com/mswell'),)
 
 DEFAULT_PAGINATION = 10
 
